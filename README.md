@@ -1,4 +1,4 @@
-## ETH2.0 Project Management
+## VAP2.0 Project Management
 
 ### Interop Standards
 
